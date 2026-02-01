@@ -1,0 +1,4 @@
+project_id = "jsyxclzogbameezrnkcl"
+
+[functions.analyze-fault]
+verify_jwt = false
